@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "http_demo_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7226",
+      "launchBrowser": false
+    }
+  }
+}
